@@ -1,5 +1,5 @@
 PROPERTY,VALUE
-rain,false
+rain,true
 rainSound,true
 rainVolume,50
 rainContinue,true
