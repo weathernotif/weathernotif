@@ -1,0 +1,12 @@
+PROPERTY,VALUE
+rain,true
+rainSound,true
+rainVolume,50
+rainContinue,true
+blanket,"unknown"
+blanketRain,true
+dogsBark,true
+catsMeow,false
+strangeSounds,false
+highHumidity,true
+lowHumidity,false
