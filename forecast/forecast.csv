@@ -5,7 +5,7 @@ rainVolume,50
 rainContinue,true
 blanket,"unknown"
 blanketRain,true
-dogsBark,true
+dogsBark,false
 catsMeow,false
 strangeSounds,false
 highHumidity,true
